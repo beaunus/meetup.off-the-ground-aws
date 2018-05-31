@@ -1,8 +1,17 @@
+html {
+  background: white;
+}
+
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: #eee;
+  border-radius: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 14px;
+  margin: 50px;
+  padding: 30px;
 }
 
 a {
-  color: #00B7FF;
+  color: #ec048c;
 }
