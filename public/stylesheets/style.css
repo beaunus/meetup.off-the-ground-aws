@@ -14,4 +14,9 @@ body {
 
 a {
   color: #ec048c;
+  text-decoration: none;
+}
+
+footer {
+  float: right;
 }
